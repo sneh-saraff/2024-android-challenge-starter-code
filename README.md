@@ -8,4 +8,4 @@
 
      `git clone https://github.com/HackIllinois/2024-android-challenge-starter-code.git`
   
-* Complete the challenge and upload your code to your personal GitHub account for the interview!
+* Complete the challenge and upload your code to a personal GitHub repository for the interview!
